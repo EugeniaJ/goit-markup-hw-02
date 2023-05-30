@@ -13,7 +13,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: var(--second-text-color)
+    color: var(--second-text-color);
     background-color: var(--main-text-color);
 }
     
