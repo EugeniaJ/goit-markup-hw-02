@@ -7,15 +7,16 @@
 
 
 body {
-    font-family: 'Roboto', sans-serif;}
-    background: #FFFFFF;
-    color: #434455;
+    font-family: 'Roboto', sans-serif;
+    color: #434455
+    background-color: #FFFFFF;
+}
+    
     
 /*-------HEADER*-----*/
 
-
 .header-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -62,7 +63,7 @@ body {
       color: #404BBF; 
     }
 
-    .adress {
+    .address {
         font-style: normal;
     }
     .header-social {
@@ -182,7 +183,7 @@ body {
 
 }
 .footer-logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
